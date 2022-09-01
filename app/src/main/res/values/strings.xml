@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JavaBundleTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="change_name">%s님의 정보를 입력해주세요</string>
+</resources>
