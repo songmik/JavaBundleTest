@@ -17,7 +17,7 @@ fragment -> fragment 데이터 전송 (참고 : https://aries574.tistory.com/112
 MainActivity -> OneFragment //    TwoFragment -> ThreeFragment 를 SubActivity에 보여주는것
 1. Activity -> Fragment이동
 2. Fragment -> Fragment이동 (하는 화면을 SubActivity에 표현)
-
+3. Fragment -> Activity이동
  */
 
 
@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         sendDataToBlankF();
-
     }
 
 
